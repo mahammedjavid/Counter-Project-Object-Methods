@@ -1,0 +1,24 @@
+body{
+    width: 30%;
+    height: 30%;
+}
+.red{
+    background: red;
+    padding: 2em;
+}
+.green{
+    background-color: green;
+    padding: 2em;
+}
+.pink{
+    background-color: pink;
+    padding: 2em;
+}
+.yellow{
+    background-color: yellow;
+    padding: 2em;
+}
+.center{
+    background: none;
+    padding: 2em;
+}
